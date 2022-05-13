@@ -26,3 +26,7 @@ flowchart LR;
 ### 鶏胸肉
 
 鶏もも肉でも可。もも肉はこってり、胸肉はさっぱり気味。
+
+## 作成例
+
+![](https://i.imgur.com/EU2AowKh.jpg)
