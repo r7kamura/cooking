@@ -1,6 +1,6 @@
-# r7kamura/cooking
+# Cooking
 
-Cooking recipe memo.
+r7kamura's cooking recipe memo.
 
 ## Example
 
